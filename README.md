@@ -1,5 +1,5 @@
-# Programación de la Regresión Lineal en Python
+# Tutorial Básico de Keras
 
-Set de datos y código fuente donde se implementa la Regresión Lineal en Python sin usar librerías de *Machine Learning*.
+Set de datos y código fuente donde con la implementación del Tutorial Básico de Keras.
 
 Para la explicación paso a paso visita el [artículo en Codificando Bits]().
