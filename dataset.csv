@@ -1,0 +1,62 @@
+#  x03.txt,,,
+#,,,
+#  Reference:,,,
+#,,,
+#    Helmut Spaeth,,,
+#    Mathematical Algorithms for Linear Regression,,,
+#    Academic Press,1991, page 304,
+#    ISBN 0-12-656460-4.,,,
+#,,,
+#    D G Kleinbaum and L L Kupper,,,
+#    Applied Regression Analysis and Other Multivariable Methods,,,
+#    Duxbury Press,1978, page 47.,
+#,,,
+#  Discussion:,,,
+#,,,
+#    The systolic blood pressure was measured for 30 people of,,,
+#    different ages.  A nonzero intercept seems appropriate,,,
+#    here, since even a very young person can have a high blood pressure.,,
+#,,,
+#    There are 30 rows of data.  The data columns include:,,,
+#,,,
+#      I,  the index,,
+#      A0,1,,
+#      A1, the age,,
+#      B,  the systolic blood pressure,,
+#,,,
+#    We seek a model of the form:,,,
+#,,,
+#      B = A0 * X0 + A1 * X1,,,
+#,,,
+4 columns,,,
+29 rows,,,
+Index,One,Age,Systolic blood pressure
+1,1,39,144
+2,1,45,138
+3,1,47,145
+4,1,65,162
+5,1,46,142
+6,1,67,170
+7,1,42,124
+8,1,67,158
+9,1,56,154
+10,1,64,162
+11,1,56,150
+12,1,59,140
+13,1,34,110
+14,1,42,128
+15,1,48,130
+16,1,45,135
+17,1,17,114
+18,1,20,116
+19,1,19,124
+20,1,36,136
+21,1,50,142
+22,1,39,120
+23,1,21,120
+24,1,44,160
+25,1,53,158
+26,1,63,144
+27,1,29,130
+28,1,25,125
+29,1,69,175
